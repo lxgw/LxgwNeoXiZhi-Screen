@@ -49,4 +49,4 @@
 - 用于补全新致宋扩 A 区的[「谜乃明朝 / Nazono Mincho」](https://github.com/ge9/NazonoMincho)以及用于补全谚文的 [HanaMinLite](https://github.com/Radically/hanazonolite) 采用 GlyphWiki 授权方式。
 - 打底字体 [Droid Sans Fallback](https://www.maoken.com/freefonts/2428.html) 和 [Roboto v2.138](https://github.com/googlefonts/roboto) 采用 Apache License Version 2.0 授权方式。
 
-根据授权的兼容性与传染性，本项目字体采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。本项目字体所混入非 IPA 许可字体的授权许可及其 URL [点击此处](licenses_of_other_mixed-in_fonts.txt)查看。
+根据授权的兼容性与传染性，本项目字体采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。本项目字体所混入非 IPA 许可字体的授权许可及其 URL [点击此处](licenses_of_other_merged_fonts.txt)查看。
