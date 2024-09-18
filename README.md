@@ -11,7 +11,7 @@
 ### 制作与调整
 
 - **霞鹜新晰黑 屏幕阅读版：** 在「霞鹜新晰黑」基础上，用 FontCreator 双向加粗 6 个单位。补全版直接采用 Roboto 和 Droid Sans Fallback 打底。
-- **霞鹜新致宋 屏幕阅读版：** 在「霞鹜新致宋」基础上，用 FontLab 加粗，其中：汉字横向加粗 5 个单位，纵向加粗 16 个单位（遇笔画较多的汉字酌情减小加粗幅度）；其他字符双向加粗 8 个单位。补全版先依次用[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)[「一点明体」](https://github.com/ichitenfont/I.Ming)[「谜乃明朝」](https://github.com/ge9/NazonoMincho)加粗后补全扩展 A 区，用 [HanaMinLite](https://github.com/Radically/hanazonolite) 补全谚文，再用 Roboto 和 Droid Sans Fallback 打底。
+- **霞鹜新致宋 屏幕阅读版：** 在「霞鹜新致宋」基础上，用 FontLab 加粗，其中：汉字横向加粗 5 个单位，纵向加粗 16 个单位（遇横画较密集的汉字酌情减小加粗幅度）；其他字符双向加粗 8 个单位。补全版先依次用[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)[「一点明体」](https://github.com/ichitenfont/I.Ming)[「谜乃明朝」](https://github.com/ge9/NazonoMincho)加粗后补全扩展 A 区，用 [HanaMinLite](https://github.com/Radically/hanazonolite) 补全谚文，再用 Roboto 和 Droid Sans Fallback 打底。
 - **补全版**采用[「魔兽字体合并补全工具」](https://github.com/nowar-fonts/Warcraft-Font-Merger)补全。
 
 ### 概览
