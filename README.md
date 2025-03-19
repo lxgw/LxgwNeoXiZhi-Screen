@@ -11,7 +11,7 @@
 ### 制作与调整
 
 - **霞鹜新晰黑 屏幕阅读版：** 在「霞鹜新晰黑」基础上，用 FontCreator 各向加粗 6 个单位。补全版直接采用 Roboto 和 Droid Sans Fallback 打底。
-- **霞鹜新致宋 屏幕阅读版：** 在「霞鹜新致宋」基础上，用 FontLab 加粗，其中：汉字横向加粗 5 个单位，纵向加粗 16 个单位（遇横画较密集的汉字酌情减小加粗幅度）；其他字符各向加粗 8 个单位。补全版先依次用[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)[「一点明体」](https://github.com/ichitenfont/I.Ming)[「谜乃明朝」](https://github.com/ge9/NazonoMincho)加粗后补全扩展 A 区，用 [HanaMinLite](https://github.com/Radically/hanazonolite) 补全谚文，再用 Roboto 和 Droid Sans Fallback 打底。
+- **霞鹜新致宋 屏幕阅读版：** 在「霞鹜新致宋」基础上，用 FontLab 加粗，其中：汉字横向加粗 5 个单位，纵向加粗 16 个单位（遇横画较密集的汉字酌情减小加粗幅度）；其他字符各向加粗 8 个单位。补全版先依次用[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)加粗后补全扩展 A 区，用 [HanaMinLite](https://github.com/Radically/hanazonolite) 补全谚文，再用 Roboto 和 Droid Sans Fallback 打底。
 - **补全版**采用[「魔兽字体合并补全工具」](https://github.com/nowar-fonts/Warcraft-Font-Merger)补全。
 
 ### 概览
@@ -46,7 +46,7 @@
 ### 字体授权兼容性说明
 
 - [「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)[「霞鹜新致宋」](https://github.com/lxgw/LxgwNeoZhiSong) 以及补充新致宋缺字所用的[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)[「一点明体」](https://github.com/ichitenfont/I.Ming)采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。
-- 用于补全新致宋扩 A 区的[「谜乃明朝 / Nazono Mincho」](https://github.com/ge9/NazonoMincho)以及用于补全谚文的 [HanaMinLite](https://github.com/Radically/hanazonolite) 采用 GlyphWiki 授权方式。
+- 用于补全谚文的 [HanaMinLite](https://github.com/Radically/hanazonolite) 采用 GlyphWiki 授权方式。
 - 打底字体 [Droid Sans Fallback](https://www.maoken.com/freefonts/2428.html) 和 [Roboto v2.138](https://github.com/googlefonts/roboto) 采用 Apache License Version 2.0 授权方式。
 
 根据授权的兼容性与传染性，本项目字体采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。本项目字体所并入非 IPA 许可字体的授权许可及其 URL [点击此处](licenses_of_other_incorporated_fonts.txt)查看。
