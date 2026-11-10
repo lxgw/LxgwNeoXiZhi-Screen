@@ -42,6 +42,8 @@
 
 进入 [Releases](https://github.com/lxgw/LxgwNeoXiZhi-Screen/releases) 页面下载。
 
+本项目仓库 [projects]( ./projects/) 文件夹中提供 FCP 格式的字体工程文件，便于二次开发字体（其中 `MixGothic-ExtA-Screen.fcp` 和 `MixMincho-ExtA-Screen.fcp` 为 Plus 版增补的扩展 A 区汉字字形）。需要 15.0.0.3048 及更高版本的 FontCreator。
+
 ## 注意事项
 
 由于暂时没有找到与新致宋风格契合且授权许可兼容的字体，「霞鹜新致宋 屏幕阅读版 补全」会混入大量来自 Roboto 和 Droid Sans Fallback 的黑体（无衬线体，sans-serif）字符，如拉丁字符、西里尔字符等，且补入的来自「花园明朝」的谚文会有一定的违和感。
